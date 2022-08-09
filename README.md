@@ -1,8 +1,19 @@
 # Project-4
+## Developed by Thomas Thurzo
 
-## Project 4 is done
+![Website Logo](./assets/website4.png)
+
+### Notes:
+
+Project 4 is so far not yet responsive. 
 
 
-![GitHub Logo](/assets/website4.png)
+### What I have learnt in this project:
 
-Project 4 not responsive. 
+I am getting allready some routine with the implementing
+process.
+
+
+### Time to finish the project:
+
+1-2 hours
